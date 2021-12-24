@@ -1,7 +1,10 @@
 ### Hi there 👋
 
+I'm Steven Dinh, I'm a software engineer specialized in web and blockchain technologies, I work mostly with React, Node, Python but I'm also interested by Blockchain, Solidity, Rust and Web3. 
+
+
 <!--
-**stevendinhdev/stevendinhdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**pegaltier/pegaltier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
