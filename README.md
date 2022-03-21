@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Steven Dinh, I'm a software engineer specialized in web and blockchain technologies, I work mostly with React, Node, Python but I'm also interested by Blockchain, Solidity, Rust and Web3. 
+I'm Steven Dinh, I'm a software engineer specialized in web and blockchain technologies, I work mostly with React, Node, Python but I'm also interested in Blockchain, Solidity, Rust and Web3. 
 
 
 <!--
